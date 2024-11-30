@@ -1,0 +1,22 @@
+#background-frame{
+    position: absolute; 
+    top: 8%; 
+    left: 20%; 
+    bottom: 8%; 
+    right: 20%; 
+    outline: 1px solid;
+}
+.subframe {
+    position: absolute;
+    top: 10%; 
+    left: 20%; 
+    bottom: 10%; 
+    right: 20%;
+    outline: 1px dashed;
+    font-family: Fredoka;
+    font-size: large;
+}
+#signinForm{
+    outline: 0px
+    
+}
