@@ -5,6 +5,7 @@
     bottom: 8%; 
     right: 20%; 
     outline: 1px solid;
+    background-color: gray;
 }
 .subframe {
     position: absolute;
@@ -14,9 +15,10 @@
     right: 20%;
     outline: 1px dashed;
     font-family: Fredoka;
-    font-size: large;
+    font-size: 40px;
+    color:greenyellow;
 }
 #signinForm{
     outline: 0px
-    
+
 }
